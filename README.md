@@ -18,13 +18,13 @@
 
 ### 📌 Проекты
 
-| Проект | Описание | Стек |
-|---|---|---|
-| 🗂 [Менеджер задач](https://github.com/nnsquik/java-project-99) | Серверное веб-приложение для управления задачами с REST API, авторизацией и деплоем | Spring Boot, Spring Security, PostgreSQL, Docker |
-| 🔍 [Анализатор страниц](https://github.com/nnsquik/java-project-72) | Веб-приложение для проверки доступности сайтов и SEO-анализа | Javalin, JTE, PostgreSQL |
-| ✅ [Валидатор данных](https://github.com/nnsquik/java-project-78) | Библиотека для валидации данных, разработана по TDD | Java, JUnit |
-| 🔀 [Вычислитель отличий](https://github.com/nnsquik/java-project-71) | CLI-утилита для сравнения JSON/YAML файлов | Java, Jackson, JaCoCo |
-| 🎮 [Игры разума](https://github.com/nnsquik/java-project-61) | Консольное приложение с логико-математическими играми | Java, Gradle |
+| Проект | Описание |
+|---|---|
+| 🗂 [Менеджер задач](https://github.com/nnsquik/java-project-99) | Серверное веб-приложение для управления задачами с REST API, авторизацией и деплоем |
+| 🔍 [Анализатор страниц](https://github.com/nnsquik/java-project-72) | Веб-приложение для проверки доступности сайтов и SEO-анализа |
+| ✅ [Валидатор данных](https://github.com/nnsquik/java-project-78) | Библиотека для валидации данных, разработана по TDD |
+| 🔀 [Вычислитель отличий](https://github.com/nnsquik/java-project-71) | CLI-утилита для сравнения JSON/YAML файлов |
+| 🎮 [Игры разума](https://github.com/nnsquik/java-project-61) | Консольное приложение с логико-математическими играми |
 
 ---
 
