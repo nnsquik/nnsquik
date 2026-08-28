@@ -18,4 +18,4 @@
 
 ---
 
-### 📫 [email](mailto:luavesyan@gmail.com) · [telegram](https://t.me/luuave) · [hh.ru](https://hh.ru/resume/9f0d56c1ff10fd3c730039ed1f68387070635a · [habr](https://career.habr.com/luave)
+### 📫 [email](mailto:luavesyan@gmail.com) · [telegram](https://t.me/luuave) · [hh.ru](https://hh.ru/resume/9f0d56c1ff10fd3c730039ed1f68387070635a) · [habr](https://career.habr.com/luave)
