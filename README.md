@@ -4,7 +4,7 @@
 
 ### 📌 Projects
 
-| Проект | Стек | Описание |
+| Project | Stack | Description |
 |---|---|---|
 | 🎮 [Mods for Minecraft](https://github.com/nnsquik/monkey) | ☕ Java | Сборка модов для Minecraft 1.8.9 (Forge + Mixin): мод Murder Mystery с автоопределением убийцы, AutoSprint, оптимизация рендера и др. |
 | 🗂 [Менеджер задач](https://github.com/nnsquik/java-project-99) | ☕ Java / Spring | Серверное веб-приложение для управления задачами с REST API, авторизацией и деплоем |
