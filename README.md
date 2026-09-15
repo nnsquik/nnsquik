@@ -14,6 +14,7 @@
 | 🎮 [Игры разума](https://github.com/nnsquik/java-project-61) | Консольное приложение с логико-математическими играми |
 | 🎬 [Cinema CRUD](https://github.com/nesquikpro/cinema-spring-crud) | Веб-приложение для управления кинотеатром (фильмы, сеансы, пользователи) на Spring MVC + Spring Security + Hibernate + PostgreSQL |
 | 🏋️ [Sport Club Manager](https://github.com/nnsquik/gym.desktop) | Десктопное WPF-приложение (MVVM) + REST API на ASP.NET Core для учёта клиентов, абонементов, чипов доступа и посещений спортзала |
+| 🏨 [Hotel Management System](https://github.com/nnsquik/hotel-winforms-webapi) | Информационная система для гостиницы (кадры, клиенты, питание, услуги, бухгалтерия): WPF-клиент (MVVM) + Web API + MSSQL, 5 ролей с разграничением прав |
 ---
 
 ### 📫 [email](mailto:luavesyan@gmail.com) · [telegram](https://t.me/luuave) · [hh.ru](https://hh.ru/resume/9f0d56c1ff10fd3c730039ed1f68387070635a) · [habr](https://career.habr.com/luave)
