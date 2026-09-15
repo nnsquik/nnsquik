@@ -4,17 +4,17 @@
 
 ### 📌 Projects
 
-| Project | Description |
-|---|---|
-| 🎮 [Mods for Minecraft](https://github.com/nnsquik/monkey) | Сборка модов для Minecraft 1.8.9 (Forge + Mixin): мод Murder Mystery с автоопределением убийцы, AutoSprint, оптимизация рендера и др.|
-| 🗂 [Менеджер задач](https://github.com/nnsquik/java-project-99) | Серверное веб-приложение для управления задачами с REST API, авторизацией и деплоем |
-| 🔍 [Анализатор страниц](https://github.com/nnsquik/java-project-72) | Веб-приложение для проверки доступности сайтов и SEO-анализа |
-| ✅ [Валидатор данных](https://github.com/nnsquik/java-project-78) | Библиотека для валидации данных, разработана по TDD |
-| 🔀 [Вычислитель отличий](https://github.com/nnsquik/java-project-71) | CLI-утилита для сравнения JSON/YAML файлов |
-| 🎮 [Игры разума](https://github.com/nnsquik/java-project-61) | Консольное приложение с логико-математическими играми |
-| 🎬 [Cinema CRUD](https://github.com/nesquikpro/cinema-spring-crud) | Веб-приложение для управления кинотеатром (фильмы, сеансы, пользователи) на Spring MVC + Spring Security + Hibernate + PostgreSQL |
-| 🏋️ [Sport Club Manager](https://github.com/nnsquik/gym.desktop) | Десктопное WPF-приложение (MVVM) + REST API на ASP.NET Core для учёта клиентов, абонементов, чипов доступа и посещений спортзала |
-| 🏨 [Hotel Management System](https://github.com/nnsquik/hotel-winforms-webapi) | Информационная система для гостиницы (кадры, клиенты, питание, услуги, бухгалтерия): WPF-клиент (MVVM) + Web API + MSSQL, 5 ролей с разграничением прав |
+| Проект | Стек | Описание |
+|---|---|---|
+| 🎮 [Mods for Minecraft](https://github.com/nnsquik/monkey) | ☕ Java | Сборка модов для Minecraft 1.8.9 (Forge + Mixin): мод Murder Mystery с автоопределением убийцы, AutoSprint, оптимизация рендера и др. |
+| 🗂 [Менеджер задач](https://github.com/nnsquik/java-project-99) | ☕ Java / Spring | Серверное веб-приложение для управления задачами с REST API, авторизацией и деплоем |
+| 🔍 [Анализатор страниц](https://github.com/nnsquik/java-project-72) | ☕ Java | Веб-приложение для проверки доступности сайтов и SEO-анализа |
+| ✅ [Валидатор данных](https://github.com/nnsquik/java-project-78) | ☕ Java | Библиотека для валидации данных, разработана по TDD |
+| 🔀 [Вычислитель отличий](https://github.com/nnsquik/java-project-71) | ☕ Java | CLI-утилита для сравнения JSON/YAML файлов |
+| 🎮 [Игры разума](https://github.com/nnsquik/java-project-61) | ☕ Java | Консольное приложение с логико-математическими играми |
+| 🎬 [Cinema CRUD](https://github.com/nesquikpro/cinema-spring-crud) | ☕ Java / Spring | Веб-приложение для управления кинотеатром (фильмы, сеансы, пользователи) на Spring MVC + Spring Security + Hibernate + PostgreSQL |
+| 🏋️ [Sport Club Manager](https://github.com/nnsquik/gym.desktop) | 🔷 C# / .NET | Десктопное WPF-приложение (MVVM) + REST API на ASP.NET Core для учёта клиентов, абонементов, чипов доступа и посещений спортзала |
+| 🏨 [Hotel Management System](https://github.com/nnsquik/hotel-winforms-webapi) | 🔷 C# / .NET | Информационная система для гостиницы (кадры, клиенты, питание, услуги, бухгалтерия): WPF-клиент (MVVM) + Web API + MSSQL, 5 ролей с разграничением прав |
 ---
 
 ### 📫 [email](mailto:luavesyan@gmail.com) · [telegram](https://t.me/luuave) · [hh.ru](https://hh.ru/resume/9f0d56c1ff10fd3c730039ed1f68387070635a) · [habr](https://career.habr.com/luave)
